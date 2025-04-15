@@ -14,6 +14,7 @@ int main(){
     return 0;
 }
 
+
 std::string string_concatinate(std::string string1, std::string string2){
     return string1 + ' ' + string2;
 }
