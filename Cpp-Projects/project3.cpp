@@ -37,7 +37,7 @@ int main(){
         total_gp += gp[i];
 
     }
-    cout << "\n\nYour total GP : " << total_gp << '\n';
+    cout << "\n\nYour total GP : " << total_gp << '\n'; 
 
     cout << "\n-- *Credits* --\n";
     for(int i=0; i< n ; i++){
