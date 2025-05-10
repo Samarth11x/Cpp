@@ -13,10 +13,10 @@ public:
     // }
     //non-parameterised constructor;
 
-    constructor(string n, int r_n, string b){
-        name = n;
-        roll_no = r_n;
-        branch = b;
+    constructor(string name, int roll_no, string branch){
+        this->name = name;
+        this->roll_no = roll_no;
+        this->branch = branch;
     }
 
     void get_info(){
